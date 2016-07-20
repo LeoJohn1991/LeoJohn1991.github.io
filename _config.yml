@@ -6,21 +6,21 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: HyG
-brief-intro: Front-end Dev Engineer
+title:LeeJohn
+brief-intro: code monkey
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://leojohn1991.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: https://leojohn1991.github.io
-facebook_username: https://leojohn1991.github.io
-github_username:  https://leojohn1991.github.io
-email: https://leojohn1991.github.io
-weibo_username: https://leojohn1991.github.io
-zhihu_username: https://leojohn1991.github.io
-linkedIn_username: https://leojohn1991.github.io
+twitter_username:
+facebook_username: leejohn1230
+github_username:  LeoJohn1991
+email: lijiang1991@gmail.com
+weibo_username:
+zhihu_username:
+linkedIn_username:
 dribbble_username: 
 
 description_footer: 本站记录菜鸟崛起之历程(T^T)！
