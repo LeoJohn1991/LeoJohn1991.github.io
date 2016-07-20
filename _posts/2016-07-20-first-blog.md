@@ -15,7 +15,8 @@ excerpt: 搭完博客后写的第一篇博客，留个纪念。(╯▽╰)
 
 1. <http://cyzus.github.io/2015/06/21/github-build-blog/>
 2. <http://jekyllthemes.org/>
-3. [我的CSDN博客](http://blog.csdn.net/lijiang1991)
+3. <https://github.com/Gaohaoyang/gaohaoyang.github.io>
+4. [我的CSDN博客](http://blog.csdn.net/lijiang1991)
 
 ## Comments
 
