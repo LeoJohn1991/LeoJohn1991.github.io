@@ -8,9 +8,12 @@ tags: Blog Disqus
 
 ---
 
-
+* content
+{:toc}
 
 博客菜鸟，根据别人教程，用Jekyll框架搭建的博客，刚开始对于评论插件Disqus一直存在配置问题，刷不出来。查过资料，才知道Jekyll的_config.yml中的 disqus_shortname 并非是注册的 Disqus 用户名。本文记录配置评论插件Disqus碰到的问题，及其解决方法。
+
+
 
 
 ## Issues
@@ -57,6 +60,4 @@ There are a few things to keep in mind when choosing a shortname:
 2. <https://learn.uberflip.com/h/i/135492527-how-to-get-a-disqus-shortname-for-your-hub-youll-need-it>
 
 
-## Comments
 
-{% include comments.html %}
