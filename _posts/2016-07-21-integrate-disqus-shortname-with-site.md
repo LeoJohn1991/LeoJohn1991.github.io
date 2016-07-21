@@ -42,9 +42,9 @@ A shortname is the unique identifier assigned to a [Disqus site][disqus-site]. A
 
 Yes. To manage comments in Disqus you will need to [register your site][register-site] and [install Disqus on your site][install-to-site] using the shortname registered.
 
-[disqus-site]:		http://help.disqus.com/customer/portal/articles/286833-what-is-a-forum-
-[register-site]:		http://disqus.com/register
-[install-to-site]:	http://disqus.com/admin/install
+[disqus-site]: http://help.disqus.com/customer/portal/articles/286833-what-is-a-forum-
+[register-site]: http://disqus.com/register
+[install-to-site]: http://disqus.com/admin/install
 
 ### Choosing a shortname
 
