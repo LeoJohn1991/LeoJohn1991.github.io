@@ -32,6 +32,7 @@ disqus_shortname填写错误可能出现以下报错：
 
 此处的disqus_shortname并非是你的Disqus注册的username，Disqus的username和shortname是两个不同的东西。注册Disqus username之后，只能管理你自己账户的评论；而如果要后台管理博客中的评论，需要为Disuqs注册一个shortname，并绑定博客网站。
 
+---
 
 ## What's a shortname?
 
@@ -53,6 +54,8 @@ There are a few things to keep in mind when choosing a shortname:
 - Your shortname will not appear publicly. However, your website name will show up in a number of places including (but not limited to): email notifications, the My Disqus tab, the Community tab, and the Discovery box.
 
 *Adjust your website name in forum Settings > General.*
+
+---
 
 ## References
 
