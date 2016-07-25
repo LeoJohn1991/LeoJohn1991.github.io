@@ -11,13 +11,14 @@ tags: shell
 * content
 {:toc}
 
-虽然平时终端用的多,但是只会常用的几种操作,且即搜即用,对shell并没有清晰的概念.故找文章学下shell,系统的入个╮(╯_╰)╭
-
-> 文章转自: <https://github.com/qinjx/30min_guides/blob/master/shell.md>
+虽然平时终端用的多,但是只会常用的几种操作,且即搜即用,对shell并没有清晰的概念. 故找文章学下shell,系统的入个门 ╮(╯_╰)╭
 
 
 
 
+
+
+*文章转自: <https://github.com/qinjx/30min_guides/blob/master/shell.md>*
 
 
 ## 什么是Shell脚本
